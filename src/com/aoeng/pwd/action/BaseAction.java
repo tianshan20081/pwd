@@ -11,6 +11,9 @@ public class BaseAction<T> extends ActionSupport implements ModelDriven<T>,
 
 	/**
 	 * 
+	 * 
+	 * 
+	 * 
 	 */
 	private static final long serialVersionUID = 6725295240069040763L;
 	protected T model;
